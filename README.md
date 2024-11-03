@@ -1,16 +1,16 @@
-## Hi there 👋
+# _Amazing world of BMinh_
 
-<!--
-**Entes-steinla/Entes-steinla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SKILLS**
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,github,git,vscode)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,ps)](https://skillicons.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Entes-steinla&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Entes-steinla&show_icons=true&theme=github_dark)
+
+__*What is money really worth if it ain't love?*__  
+__*I'ma find a perfect balance, it's gon' take time...*__
+
+![Deku](https://i.pinimg.com/564x/cb/bc/0f/cbbc0fd08b18cb06956a463416c0fc09.jpg)
