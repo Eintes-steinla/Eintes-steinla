@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Entes-steinla&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Entes-steinla&show_icons=true&theme=github_dark)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Entes-steinla&show_icons=true&theme=github_dark) -->
 
 __*What is money really worth if it ain't love?*__  
 __*I'ma find a perfect balance, it's gon' take time...*__
