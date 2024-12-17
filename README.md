@@ -14,7 +14,7 @@
 
 ## **Codewars - December, 16 2024**
 
-[![Codewars](https://github.r2v.ch/codewars?user=Entes-steinla&name=true&top_languages=true&theme=dark&hide_clan=true&stroke=%#404040)](https://www.codewars.com/users/Entes-steinla)
+[![Codewars](https://github.r2v.ch/codewars?user=Entes-steinla&name=true&top_languages=true&theme=dark&hide_clan=true&stroke=%#fff)](https://www.codewars.com/users/Entes-steinla)
 
 ## **Github - November, 04 2023**
 
