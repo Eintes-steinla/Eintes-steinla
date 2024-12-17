@@ -1,27 +1,28 @@
 # _Work on improving yourself_
 
-##### **`Game and Security`**
+## **Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,powershell,py,java)](https://skillicons.dev)
 
-##### **`Frontend`**
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,ps)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,discord,figma)](https://skillicons.dev)
 
-##### **`Backend`**
+## **LeetCode - December, 08 2024**
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,java)](https://skillicons.dev)
+[![](https://leetcard.jacoblin.cool/Entes-steinla?ext=heatmap)](https://leetcode.com/u/Entes-steinla/)
 
-##### **`Tools`**
+## **Codewars - December, 16 2024**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,discord)](https://skillicons.dev)
+[![Codewars](https://github.r2v.ch/codewars?user=Entes-steinla&name=true&top_languages=true&stroke=%23b362ff&theme=dark&hide_clan=true)](https://www.codewars.com/users/Entes-steinla)
 
+## **Github - November, 04 2023**
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Entes-steinla&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Entes-steinla&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
- <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Entes-steinla&show_icons=true&theme=github_dark) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Entes-steinla&show_icons=true&theme=github_dark)
 
-__*What is money really worth if it ain't love?*__  
-__*I'ma find a perfect balance, it's gon' take time...*__
+**_What is money really worth if it ain't love?_**  
+**_I'ma find a perfect balance, it's gon' take time..._**
 
 ![Deku](https://i.pinimg.com/564x/cb/bc/0f/cbbc0fd08b18cb06956a463416c0fc09.jpg)
