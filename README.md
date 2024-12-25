@@ -1,6 +1,11 @@
 # _Work on improving yourself_
 
 ![Deku](https://media.giphy.com/media/agLzP4BYRPcOY/giphy.gif)
+![Deku](https://media.giphy.com/media/agLzP4BYRPcOY/giphy.gif)
+![Deku](https://media.giphy.com/media/agLzP4BYRPcOY/giphy.gif)
+![Deku](https://media.giphy.com/media/agLzP4BYRPcOY/giphy.gif)
+![Deku](https://media.giphy.com/media/agLzP4BYRPcOY/giphy.gif)
+![Deku](https://media.giphy.com/media/agLzP4BYRPcOY/giphy.gif)
 
 ## **Skills**
 
