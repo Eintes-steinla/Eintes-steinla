@@ -1,5 +1,7 @@
 # _Work on improving yourself_
 
+![Deku](https://media.giphy.com/media/agLzP4BYRPcOY/giphy.gif)
+
 ## **Skills**
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,powershell,py,java)](https://skillicons.dev)
