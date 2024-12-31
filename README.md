@@ -1,7 +1,7 @@
 # **Hello I'm Deku 🛌**
 
 <p align="center">
-  <a href="https://media.giphy.com/media/EHHi29hCF0hlm/giphy.gif?cid=ecf05e475e2xazzw0oqq4fxhrp1whpzatdr6rljxmtdlr4ye&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+  <a href="">
     <img src="https://media.giphy.com/media/EHHi29hCF0hlm/giphy.gif?cid=ecf05e475e2xazzw0oqq4fxhrp1whpzatdr6rljxmtdlr4ye&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Deku">
   </a>
 </p>
@@ -9,36 +9,36 @@
 ## **Socials 🎧️**
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:baominh262005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://zalo.me">
-    <img src="https://img.shields.io/badge/Zalo-%230077FF.svg?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo">
-  </a>
-  <a href="https://telegram.org">
-    <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://youtube.com">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a><br>
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://facebook.com">
+  <a href="https://www.facebook.com/entes.steinla?locale=vi_VN">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="https://instagram.com">
+  <a href="https://www.instagram.com/bminhh._.26/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://threads.net">
-    <img src="https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
   </a><br>
-  <a href="https://spotify.com">
+  <a href="https://youtube.com">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://discord.gg/SDvknNxY">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://t.me/aratemashu">
+    <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <!-- <a href="https://zalo.me">
+    <img src="https://img.shields.io/badge/Zalo-%230077FF.svg?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo">
+  </a> -->
+  <!-- <a href="https://threads.net">
+    <img src="https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
+  </a><br> -->
+  <!-- <a href="https://spotify.com">
     <img src="https://img.shields.io/badge/Spotify-%231ED760.svg?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
   </a>
   <a href="https://soundcloud.com">
     <img src="https://img.shields.io/badge/SoundCloud-%23FF5500.svg?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud">
-  </a>
+  </a> -->
 </p>
 
 ## **Technical Skills 🐤**
