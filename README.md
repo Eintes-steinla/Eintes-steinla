@@ -61,9 +61,9 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Entes-steinla&layout=compact&theme=github_dark" alt="Top Langs">
   </a><br>
-  <a href="https://github-readme-streak-stats.herokuapp.com">
+<!--   <a href="https://github-readme-streak-stats.herokuapp.com">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Entes-steinla&theme=dark&hide_border=false" alt="GitHub Streak Stats">
-  </a>
+  </a> -->
 </p>
 
 <!-- ![Deku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Entes-steinla&show_icons=true&theme=github_dark) -->
