@@ -58,7 +58,7 @@
 ## ![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Entes-steinla&theme=github-dark-blue&card_width=300&card_height=200&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a><br>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Entes-steinla&theme=github-dark-blue&card_width=300&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Entes-steinla&layout=compact&theme=github_dark" alt="Top Langs">
   </a>
