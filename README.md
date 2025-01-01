@@ -58,17 +58,15 @@
 ## ![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Entes-steinla&theme=github-dark-blue&card_width=300&card_height=200&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Entes-steinla&layout=compact&theme=github_dark" alt="Top Langs">
   </a>
-<!--   <a href="https://github-readme-streak-stats.herokuapp.com">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Entes-steinla&theme=dark&hide_border=false" alt="GitHub Streak Stats">
-  </a> -->
 </p>
 
 <!-- ![Deku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Entes-steinla&show_icons=true&theme=github_dark) -->
 
-## ![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)
+## [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Entes-steinla/)
 
 <p align="center">
   <a href="https://leetcode.com/u/Entes-steinla/">
@@ -76,7 +74,7 @@
   </a>
 </p>
 
-## ![Codewars](https://img.shields.io/badge/Codewars-%23AD2C27.svg?style=for-the-badge&logo=codewars&logoColor=white)
+## [![Codewars](https://img.shields.io/badge/Codewars-%23AD2C27.svg?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Entes-steinla)
 
 <p align="center">
   <a href="https://www.codewars.com/users/Entes-steinla">
