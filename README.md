@@ -18,30 +18,23 @@
   <a href="https://www.instagram.com/bminhh._.26/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a><br>
-  <a href="https://youtube.com">
+  <a href="https://www.youtube.com/@nekozame0206/featured">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-  <a href="https://discord.gg/SDvknNxY">
+  <a href="https://discord.gg/HwxeHmqbE5">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://t.me/aratemashu">
     <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <!-- <a href="https://zalo.me">
-    <img src="https://img.shields.io/badge/Zalo-%230077FF.svg?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo">
-  </a> -->
-  <!-- <a href="https://threads.net">
-    <img src="https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
-  </a><br> -->
-  <!-- <a href="https://spotify.com">
-    <img src="https://img.shields.io/badge/Spotify-%231ED760.svg?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
-  </a>
-  <a href="https://soundcloud.com">
-    <img src="https://img.shields.io/badge/SoundCloud-%23FF5500.svg?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud">
-  </a> -->
 </p>
 
 ## **Technical Skills 🐤**
+<p align="center">
+  <a href="https://www.w3profile.com/Entes-stenla" target="_blank">
+    <img src="https://img.shields.io/badge/W3Schools-%2304AA6D.svg?style=for-the-badge&logo=w3schools&logoColor=white" alt="W3Schools">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -63,8 +56,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Entes-steinla&layout=compact&theme=github_dark" alt="Top Langs">
   </a>
 </p>
-
-<!-- ![Deku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Entes-steinla&show_icons=true&theme=github_dark) -->
 
 ## [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Entes-steinla/)
 
