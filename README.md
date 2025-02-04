@@ -41,7 +41,7 @@
     <img src="https://skillicons.dev/icons?i=cpp,c,powershell,java,py" alt="Skills">
   </a><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ps" alt="Skills">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,ps" alt="Skills">
   </a><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,github,git,discord,figma" alt="Skills">
