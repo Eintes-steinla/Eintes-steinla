@@ -1,4 +1,4 @@
-# **Hello I'm Deku 🛌**
+# **Deku 🛌**
 
 <p align="center">
   <a href="">
@@ -12,7 +12,7 @@
   <a href="mailto:baominh262005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.facebook.com/eintes.steinla?locale=vi_VN">
+  <a href="https://www.facebook.com/entes.steinla?locale=vi_VN">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="https://www.instagram.com/bminhh._.26/">
@@ -31,21 +31,24 @@
 
 ## **Technical Skills 🐤**
 <p align="center">
-  <a href="https://www.w3profile.com/Eintes-stenla" target="_blank">
-    <img src="https://img.shields.io/badge/W3Schools-%2304AA6D.svg?style=for-the-badge&logo=w3schools&logoColor=white" alt="W3Schools">
-  </a>
-</p>
-
-<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,powershell,java,py" alt="Skills">
+    <img src="https://skillicons.dev/icons?i=html,css,,js,ts" alt="Skills">
   </a><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,ps" alt="Skills">
+    <img src="https://skillicons.dev/icons?i=tailwind,sass,astro,react,nodejs,php,laravel" alt="Skills">
   </a><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,discord,figma" alt="Skills">
-  </a>
+    <img src="https://skillicons.dev/icons?i=npm,docker,c,cpp,cs,mysql,py" alt="Skills">
+  </a><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,java,go,unity,git" alt="Skills">
+  </a><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,linux,ps" alt="Skills">
+  </a><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Skills">
+  </a><br>
 </p>
 
 ## ![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -65,10 +68,10 @@
   </a>
 </p>
 
-## [![Codewars](https://img.shields.io/badge/Codewars-%23AD2C27.svg?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Eintes-steinla)
+<!--## [![Codewars](https://img.shields.io/badge/Codewars-%23AD2C27.svg?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Eintes-steinla)-->
 
-<p align="center">
-  <a href="https://www.codewars.com/users/Eintes-steinla">
-    <img src="https://github.r2v.ch/codewars?user=Eintes-steinla&name=true&top_languages=true&theme=dark&hide_clan=false&stroke=%23606060" alt="Codewars Stats">
-  </a>
-</p>
+<!--<p align="center">-->
+<!--  <a href="https://www.codewars.com/users/Eintes-steinla">-->
+<!--    <img src="https://github.r2v.ch/codewars?user=Eintes-steinla&name=true&top_languages=true&theme=dark&hide_clan=false&stroke=%23606060" alt="Codewars Stats">-->
+<!--  </a>-->
+<!--</p>-->
