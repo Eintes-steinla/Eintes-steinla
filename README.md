@@ -55,9 +55,9 @@
 
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Eintes-steinla&theme=github-dark-blue&card_width=300&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a><br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eintes-steinla&layout=compact&theme=github_dark" alt="Top Langs">
-  </a>
+  </a> -->
 </p>
 
 ## [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Eintes-steinla/)
