@@ -9,23 +9,20 @@
 ## **Technical Skills 🐤**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,,js,ts" alt="Skills">
-  </a><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" alt="Frontend">
+  </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,sass,astro,react,nodejs,php,laravel" alt="Skills">
-  </a><br>
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,py,go" alt="Backend">
+  </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=npm,docker,c,cpp,cs,mysql,py" alt="Skills">
-  </a><br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,cloudflare,supabase,vercel" alt="Database">
+  </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,java,go,unity,git" alt="Skills">
-  </a><br>
+    <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,kotlin,flutter" alt="Programming & Mobile">
+  </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,linux,ps" alt="Skills">
-  </a><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Skills">
-  </a><br>
+    <img src="https://skillicons.dev/icons?i=git,npm,docker,linux,bash,postman" alt="Tools & DevOps">
+  </a>
 </p>
 
 ## ![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
