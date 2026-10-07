@@ -10,16 +10,16 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" alt="Frontend">
-  </a>
+  </a><br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,py,go" alt="Backend">
-  </a>
+  </a><br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,cloudflare,supabase,vercel" alt="Database">
-  </a>
+  </a><br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,kotlin,flutter" alt="Programming & Mobile">
-  </a>
+  </a><br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,npm,docker,linux,bash,postman" alt="Tools & DevOps">
   </a>
